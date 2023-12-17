@@ -38,6 +38,7 @@ def validate_request_data(data):
          return False, 'Invalid price value. Must be a number'
     
     return True ,data
+
 # the following is the CURD operation.
 
 # Routes for Read product
