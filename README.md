@@ -7,8 +7,7 @@ Description or introduction to your project.
 - [Overview](#overview)
 - [Installation](#installation)
 - [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
