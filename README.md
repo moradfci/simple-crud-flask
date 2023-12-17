@@ -24,7 +24,7 @@ This is simple CRUD operation using flask and dict as in-memory data structure.
 
 ### Steps
 
-1. Clone the repository: `git clone https://github.com/your_username/your_project.git`
+1. Clone the repository: `git clone https://github.com/moradfci/simple-crud-flask.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Additional steps...
 
